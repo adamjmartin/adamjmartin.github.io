@@ -358,23 +358,23 @@ blockquote {
 /*----------------------------------------------------------------------------------- */
 
 #sect-x {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/A2017_47_1_1_4_001.png);
+  background-image: url(../images/A2017_47_1_1_4_001.png);
 }
 #sect1 {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/james-baldwinINHARLEM2.jpg);
+  background-image: url(../images/james-baldwinINHARLEM2.jpg);
 }
 #sect3 {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/bw_A2017_47_6_1_1_3_001.jpg);
+  background-image: url(../images/bw_A2017_47_6_1_1_3_001.jpg);
 }
 #sect4 {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/bw_galatabridge.jpg);
+  background-image: url(../images/bw_galatabridge.jpg);
 }
 #sect5 {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/nf-obits-baldwin-jumbo.jpg);
+  background-image: url(../images/nf-obits-baldwin-jumbo.jpg);
 }
 
 #sect6 {
-  background-image: url(https://smithersa.github.io/VJBH-timeline/images/images/bw_archdigest7-CN00182204.jpg);
+  background-image: url(../images/bw_archdigest7-CN00182204.jpg);
   }
 .Accordion-panel {  
   background-repeat: no-repeat; 
