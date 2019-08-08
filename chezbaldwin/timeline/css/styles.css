@@ -41,44 +41,44 @@ blockquote {
 /*----------------------------------------------------------------------------------- */
 /*  Buttons */
 /*----------------------------------------------------------------------------------- */
-.vjbh btn {
+.btn {
   border: 1px solid rgba(0, 0, 0, 0.25) !important;
   font-weight: 600; }
   .btn.active, .btn:active {
     box-shadow: none; }
 
-.vjbh btn-primary {
+.btn-primary {
   background: #32b9b1; }
 
-.vjbh btn-group.open .dropdown-toggle {
+.btn-group.open .dropdown-toggle {
   box-shadow: none; }
-  .vjbh btn-group.open .dropdown-toggle.btn-primary {
+  .btn-group.open .dropdown-toggle.btn-primary {
     background-color: #227d77;
     border-color: #227d77; }
     .btn-group.open .dropdown-toggle.btn-primary .caret {
       border-top-color: white; }
-  .vjbh btn-group.open .dropdown-toggle.btn-success {
+  .btn-group.open .dropdown-toggle.btn-success {
     background-color: #388327;
     border-color: #388327; }
     .btn-group.open .dropdown-toggle.btn-success .caret {
       border-top-color: white; }
-  .vjbh btn-group.open .dropdown-toggle.btn-info {
+  .btn-group.open .dropdown-toggle.btn-info {
     background-color: #28a1c5;
     border-color: #28a1c5; }
     .btn-group.open .dropdown-toggle.btn-info .caret {
       border-top-color: white; }
-  .vjbh btn-group.open .dropdown-toggle.btn-warning {
+  .btn-group.open .dropdown-toggle.btn-warning {
     background-color: #d46e12;
     border-color: #d46e12; }
     .btn-group.open .dropdown-toggle.btn-warning .caret {
       border-top-color: white; }
-  .vjbh btn-group.open .dropdown-toggle.btn-danger {
+  .btn-group.open .dropdown-toggle.btn-danger {
     background-color: #e81517;
     border-color: #e81517; }
     .btn-group.open .dropdown-toggle.btn-danger .caret {
       border-top-color: white; }
 
-.vjbh btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {
+.btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {
   margin-left: -2px; }
 .btn-group.open .dropdown-toggle {
   box-shadow: none; }
