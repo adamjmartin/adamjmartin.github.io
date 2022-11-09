@@ -1,1 +1,1540 @@
-
+{
+  "status": 200,
+  "responseCode": 1,
+  "response": {
+    "rows": [
+      {
+        "id": "ld1-1643398738600-1643398746937-0",
+        "title": "Trombone played by Fred Wesley",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2013.107.2.1-.2",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2013.107.2.1-.2",
+            "online_media": {
+              "mediaCount": 4,
+              "media": [
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5002",
+                  "idsId": "NMAAHC-2013_107_2_1_5002",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9cd7b0190-565d-458c-b149-52c9d051e8fa",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5002",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5002.tif",
+                      "width": 7283,
+                      "height": 4798
+                    },
+                    {
+                      "width": 7283,
+                      "height": 4798,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5002.jpg",
+                      "dimensions": "7283x4798"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5002_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5002_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5001",
+                  "idsId": "NMAAHC-2013_107_2_1_5001",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az902de16fe-1bb7-4f19-929c-0cad6ef6aada",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5001",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5001.tif",
+                      "width": 7694,
+                      "height": 4869
+                    },
+                    {
+                      "width": 7694,
+                      "height": 4869,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5001.jpg",
+                      "dimensions": "7694x4869"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5001_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5001_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_2_5001",
+                  "idsId": "NMAAHC-2013_107_2_2_5001",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9675af5e2-9ef8-4bc2-a651-dda2d4db723d",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_2_5001",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_2_5001.tif",
+                      "width": 8016,
+                      "height": 4754
+                    },
+                    {
+                      "width": 8016,
+                      "height": 4754,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_2_5001.jpg",
+                      "dimensions": "8016x4754"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_2_5001_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_2_5001_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5003",
+                  "idsId": "NMAAHC-2013_107_2_1_5003",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az96244a812-f9d4-4242-a0a2-bdf3281c7fbd",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_107_2_1_5003",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5003.tif",
+                      "width": 7372,
+                      "height": 4248
+                    },
+                    {
+                      "width": 7372,
+                      "height": 4248,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5003.jpg",
+                      "dimensions": "7372x4248"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5003_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_107_2_1_5003_thumb"
+                    }
+                  ]
+                }
+              ]
+            },
+            "unit_code": "NMAAHC",
+            "title_sort": "TROMBONE PLAYED BY FRED WESLEY",
+            "guid": "http://n2t.net/ark:/65665/fd5905d73fd-aa9c-408e-9745-a56e49a3dea7",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2013.107.2.1-.2",
+            "title": {
+              "label": "Object Name",
+              "content": "Trombone played by Fred Wesley"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "2010s",
+              "1960s"
+            ],
+            "exhibition": [
+              {
+                "exhibitionTitle": "Musical Crossroads",
+                "building": "NMAAHC"
+              }
+            ],
+            "object_type": [
+              "Musical instruments",
+              "trombones"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Wesley, Fred",
+              "Vincent Bach Corporation",
+              "Conn-Selmer"
+            ],
+            "onPhysicalExhibit": [
+              "Yes"
+            ],
+            "topic": [
+              "Soul (Music)",
+              "Funk (Music)",
+              "Instrumentalists (Musicians)",
+              "Jazz (Music)",
+              "Rhythm and blues (Music)"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Musical Instruments"
+              },
+              {
+                "label": "Exhibition",
+                "content": "Musical Crossroads"
+              },
+              {
+                "label": "On View",
+                "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Culture/Fourth Floor, 4 053"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "after 1960"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2013.107.2.1-.2"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "A trombone and case, including the mouthpiece, innerslide, and outerslide. The trombone is a Stradivarius Model 36 made by the Vincent Bach Corporation. On the horn, at the top, is an engraving with the model number and manufacturer: [Stradivarius / Model / 36 / Vincent Bach / ELKHART, IN. / USA]. There is a serial number at the bottom on the cylinder where all the tubes converge: [28892]."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Fred Wesley"
+              }
+            ],
+            "name": [
+              {
+                "label": "Manufactured by",
+                "content": "Vincent Bach Corporation, American, founded 1918"
+              },
+              {
+                "label": "Manufactured by",
+                "content": "Conn-Selmer, American, founded 1927"
+              },
+              {
+                "label": "Used by",
+                "content": "Fred Wesley, American, born 1943"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Funk (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Instrumentalists (Musicians)"
+              },
+              {
+                "label": "Topic",
+                "content": "Jazz (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Rhythm and blues (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Soul (Music)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "metal, synthetic fiber"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W x D: 9 7/8 x 46 1/8 x 10 1/2 in. (25.1 x 117.2 x 26.7 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "No Known Copyright Restrictions"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "trombones"
+              },
+              {
+                "label": "Type",
+                "content": "musical instruments"
+              }
+            ]
+          }
+        },
+        "hash": "785e70e108cdf42e8fa6c664667d16799e07d0e0",
+        "docSignature": "67f0f5d6b527ab8d184ea243bda919bc",
+        "timestamp": "1663781623",
+        "lastTimeUpdated": "1653674169",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398749850-0",
+        "title": "Green hat worn by Alicia Keys on the album cover of Songs in A Minor",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2015.118.1.1",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2015.118.1.1",
+            "unit_code": "NMAAHC",
+            "title_sort": "GREEN HAT WORN BY ALICIA KEYS ON THE ALBUM COVER OF SONGS IN A MINOR",
+            "guid": "http://n2t.net/ark:/65665/fd597f5cf76-ae9c-4242-b63f-52925f416c10",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2015.118.1.1",
+            "title": {
+              "label": "Object Name",
+              "content": "Green hat worn by Alicia Keys on the album cover of Songs in A Minor"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "2000s"
+            ],
+            "exhibition": [
+              {
+                "exhibitionTitle": "Musical Crossroads",
+                "building": "NMAAHC"
+              }
+            ],
+            "object_type": [
+              "Hats"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Keys, Alicia"
+            ],
+            "onPhysicalExhibit": [
+              "Yes"
+            ],
+            "topic": [
+              "Hip-hop (Music)",
+              "Classical (Music)",
+              "Neo-Soul (Music)",
+              "Costume",
+              "Music",
+              "Clothing and dress",
+              "Composers (Musicians)",
+              "Instrumentalists (Musicians)",
+              "Jazz (Music)",
+              "Singers (Musicians)",
+              "Rhythm and blues (Music)"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Clothing-Costume"
+              },
+              {
+                "label": "Exhibition",
+                "content": "Musical Crossroads"
+              },
+              {
+                "label": "On View",
+                "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Culture/Fourth Floor, 4 053"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "2001"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2015.118.1.1"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "A kelly green wool fur felt hat worn by Alicia Keys on the cover of the album Songs in A Minor (2001). The hat has a wide, floppy brim and a tall crown. A gold metal chain link is tacked down with green thread around the bottom crown. There are no labels in the hat."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Created by",
+                "content": "Unidentified"
+              },
+              {
+                "label": "Worn by",
+                "content": "Alicia Keys, American, born 1981"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Classical (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Clothing and dress"
+              },
+              {
+                "label": "Topic",
+                "content": "Composers (Musicians)"
+              },
+              {
+                "label": "Topic",
+                "content": "Costume"
+              },
+              {
+                "label": "Topic",
+                "content": "Hip-hop (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Instrumentalists (Musicians)"
+              },
+              {
+                "label": "Topic",
+                "content": "Jazz (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Neo-Soul (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Popular music"
+              },
+              {
+                "label": "Topic",
+                "content": "Rhythm and blues (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Singers (Musicians)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "wool felt and metal"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W x D: 4 3/4 × 17 × 17 in. (12.1 × 43.2 × 43.2 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "No Known Copyright Restrictions"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "hats"
+              }
+            ]
+          }
+        },
+        "hash": "6ef6857ccd2bbff7df9badbd37416e69d2258e8c",
+        "docSignature": "c9dd042407a3ba986a2cb5778c40f7d7",
+        "timestamp": "1664355305",
+        "lastTimeUpdated": "1664355297",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398749588-0",
+        "title": "<I>Good Night Angeline</I>",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2014.63.79",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2014.63.79",
+            "online_media": {
+              "mediaCount": 4,
+              "media": [
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_001",
+                  "idsId": "NMAAHC-2014_63_79_001",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az99bcb082c-f86e-4e4c-bc04-f170125a7b1c",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_001",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_001.tif",
+                      "width": 5323,
+                      "height": 6959
+                    },
+                    {
+                      "width": 5323,
+                      "height": 6959,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_001.jpg",
+                      "dimensions": "5323x6959"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_001_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_001_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_002",
+                  "idsId": "NMAAHC-2014_63_79_002",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az94da41b34-013b-43b6-b7a2-02393f493de5",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_002",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_002.tif",
+                      "width": 5292,
+                      "height": 6948
+                    },
+                    {
+                      "width": 5292,
+                      "height": 6948,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_002.jpg",
+                      "dimensions": "5292x6948"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_002_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_002_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_003",
+                  "idsId": "NMAAHC-2014_63_79_003",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az91478de88-3a22-41a1-b7ab-6b9f1f667c47",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_003",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_003.tif",
+                      "width": 5276,
+                      "height": 6939
+                    },
+                    {
+                      "width": 5276,
+                      "height": 6939,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_003.jpg",
+                      "dimensions": "5276x6939"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_003_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_003_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_004",
+                  "idsId": "NMAAHC-2014_63_79_004",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9f50b24d1-ebc4-4e4c-a5c8-8e401f744e76",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_63_79_004",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_004.tif",
+                      "width": 5340,
+                      "height": 6949
+                    },
+                    {
+                      "width": 5340,
+                      "height": 6949,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_004.jpg",
+                      "dimensions": "5340x6949"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_004_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2014_63_79_004_thumb"
+                    }
+                  ]
+                }
+              ]
+            },
+            "unit_code": "NMAAHC",
+            "title_sort": "<I>GOOD NIGHT ANGELINE</I>",
+            "guid": "http://n2t.net/ark:/65665/fd54801867a-299d-49ef-af79-9c1b7aae476a",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2014.63.79",
+            "title": {
+              "label": "Title",
+              "content": "<I>Good Night Angeline</I>"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "1910s"
+            ],
+            "object_type": [
+              "Sheet music"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Sissle, Noble",
+              "Blake, Eubie",
+              "M. Witmark & Sons",
+              "Europe, James Reese",
+              "369th Infantry Regiment"
+            ],
+            "topic": [
+              "Ragtime (Music)",
+              "Composers (Musicians)",
+              "Band (Music)",
+              "Marching bands (Music)",
+              "Military"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Documents and Published Materials-Sheet music"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "1919"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2014.63.79"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "This sheet music is for the song \"Good Night Angeline\" composed by James Reese Europe, Noble Sissle, and Eubie Blake. It was published by M. Witmark & Sons. The cover has blue and black printed text accompanied by illustrations in blue of a snare drum and a flugelhorn surrounding a black-and-white portrait of Europe. The portrait is below a black-and-white photograph of the 369th Infantry Regimental Band. The interior pages contain the music and lyrics printed in black and white. The back cover has an advertisement for the publisher with the first page of the sheet music for the song \"Kiss Me Again\" by Henry Blossom and Victor Herbert."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Composed by",
+                "content": "James Reese Europe, American, 1881 - 1919"
+              },
+              {
+                "label": "Composed by",
+                "content": "Noble Sissle, American, 1889 - 1975"
+              },
+              {
+                "label": "Composed by",
+                "content": "Eubie Blake, American, 1887 - 1983"
+              },
+              {
+                "label": "Published by",
+                "content": "M. Witmark & Sons, American, 1886 - 1929"
+              },
+              {
+                "label": "Subject of",
+                "content": "369th Infantry Regiment, American, 1913 - 1945"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Band (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Composers (Musicians)"
+              },
+              {
+                "label": "Topic",
+                "content": "Marching bands (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Military"
+              },
+              {
+                "label": "Topic",
+                "content": "Ragtime (Music)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "ink on paper"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W (Closed): 12 3/16 × 9 1/4 in. (31 × 23.5 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "Public Domain"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "sheet music"
+              }
+            ]
+          }
+        },
+        "hash": "3517bd55ca9e27613f13905fb4c9ea5e196a5847",
+        "docSignature": "13ed5a81e144102528febb7fd974d923",
+        "timestamp": "1663781623",
+        "lastTimeUpdated": "1653674170",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398750021-0",
+        "title": "Music folder owned by Della Reese",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2015.150.7",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2015.150.7",
+            "online_media": {
+              "mediaCount": 3,
+              "media": [
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1001",
+                  "idsId": "NMAAHC-DB773EA502762_1001",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9ed9eac37-fadd-44cd-a7ef-ae9931b5edbe",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1001",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1001.tif",
+                      "width": 4655,
+                      "height": 5882
+                    },
+                    {
+                      "width": 4655,
+                      "height": 5882,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1001.jpg",
+                      "dimensions": "4655x5882"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1001_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1001_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1002",
+                  "idsId": "NMAAHC-DB773EA502762_1002",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9efb0ece9-c8ba-4e95-b849-ea4d59502e91",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1002",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1002.tif",
+                      "width": 9155,
+                      "height": 6002
+                    },
+                    {
+                      "width": 9155,
+                      "height": 6002,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1002.jpg",
+                      "dimensions": "9155x6002"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1002_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1002_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1003",
+                  "idsId": "NMAAHC-DB773EA502762_1003",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az993e4c84a-9d29-4766-b11f-ccafc4850cdb",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-DB773EA502762_1003",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1003.tif",
+                      "width": 4764,
+                      "height": 5960
+                    },
+                    {
+                      "width": 4764,
+                      "height": 5960,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1003.jpg",
+                      "dimensions": "4764x5960"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1003_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-DB773EA502762_1003_thumb"
+                    }
+                  ]
+                }
+              ]
+            },
+            "unit_code": "NMAAHC",
+            "title_sort": "MUSIC FOLDER OWNED BY DELLA REESE",
+            "guid": "http://n2t.net/ark:/65665/fd5f14a8814-7164-4de9-87aa-f212be5e69e1",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2015.150.7",
+            "title": {
+              "label": "Object Name",
+              "content": "Music folder owned by Della Reese"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "2010s",
+              "1970s"
+            ],
+            "exhibition": [
+              {
+                "exhibitionTitle": "Musical Crossroads",
+                "building": "NMAAHC"
+              }
+            ],
+            "object_type": [
+              "folders (containers)"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Alpheus-Cameo Music",
+              "Reese-Lett, Della"
+            ],
+            "onPhysicalExhibit": [
+              "Yes"
+            ],
+            "topic": [
+              "Music",
+              "Gospel (Music)",
+              "Jazz (Music)",
+              "Singers (Musicians)"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Memorabilia and Ephemera"
+              },
+              {
+                "label": "Exhibition",
+                "content": "Musical Crossroads"
+              },
+              {
+                "label": "On View",
+                "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Culture/Fourth Floor, 4 053"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "1972-2013"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2015.150.7"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "Two-pocket folder made of black paper textured to resemble leather with [DELLA REESE] centered on the front in gold lettering. Gold text at the upper right reads [VIOLIN II]. Underneath is a green & white sticker with [24 / VIII] handwritten in black ink. There is a gold logo and text on the right pocket, situated at the bottom right. The logo features a helmet-wearing man's head in the letter [A]. The text reads [ALPHEUS MUSIC CORP. / CAMEO MUSIC / HOLLYWOOD, CA]"
+              },
+              {
+                "label": "Description",
+                "content": "All corners of the folder are curled or creased to various degrees."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Rev. Della Reese-Lett and Mr. Franklin Lett"
+              }
+            ],
+            "name": [
+              {
+                "label": "Manufactured by",
+                "content": "Alpheus-Cameo Music, founded 1972"
+              },
+              {
+                "label": "Owned by",
+                "content": "Della Reese, American, 1937 - 2017"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Gospel (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Jazz (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Popular music"
+              },
+              {
+                "label": "Topic",
+                "content": "Singers (Musicians)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "ink on paper (fiber product)"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W: 14 1/16 × 10 15/16 in. (35.7 × 27.8 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "No Known Copyright Restrictions"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "folders (containers)"
+              }
+            ]
+          }
+        },
+        "hash": "84ed8f142b2d52f31c5e7e5199e7647f7e1fbe5b",
+        "docSignature": "461d41ff2d34f904df5efdc0a9aacd58",
+        "timestamp": "1663781623",
+        "lastTimeUpdated": "1653674170",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398742747-0",
+        "title": "Business contract between Third World Music and Editions Intro Meisel",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2008.7.21",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2008.7.21",
+            "unit_code": "NMAAHC",
+            "title_sort": "BUSINESS CONTRACT BETWEEN THIRD WORLD MUSIC AND EDITIONS INTRO MEISEL",
+            "guid": "http://n2t.net/ark:/65665/fd5f61045ce-bb7e-4a4d-8efd-07a3984cc4fa",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2008.7.21",
+            "title": {
+              "label": "Object Name",
+              "content": "Business contract between Third World Music and Editions Intro Meisel"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "1980s"
+            ],
+            "object_type": [
+              "Contracts"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Brown, James",
+              "Edition Intro Meisel GmbH",
+              "Third World Music"
+            ],
+            "topic": [
+              "Black Enterprise",
+              "Soul (Music)",
+              "Funk (Music)",
+              "Business",
+              "Communication"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Documents and Published Materials-Business and Legal Documents"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "July 1, 1984"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2008.7.21"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "An eight page typewritten contract dated July 1, 1984, between Third World Music and Editions Intro Meisel. The contract has seventeen terms and conditions on seven pages. It is signed on page seven by James Brown in black ink. The pages are fastened together with a metal staple."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Written by",
+                "content": "Edition Intro Meisel GmbH, German, founded 1966"
+              },
+              {
+                "label": "Signed by",
+                "content": "James Brown, American, 1933 - 2006"
+              },
+              {
+                "label": "Subject of",
+                "content": "Third World Music, American"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Black Enterprise"
+              },
+              {
+                "label": "Topic",
+                "content": "Business"
+              },
+              {
+                "label": "Topic",
+                "content": "Communication"
+              },
+              {
+                "label": "Topic",
+                "content": "Funk (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Soul (Music)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "ink on paper, metal"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W: 11 x 8 1/2 in. (27.9 x 21.6 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "No Known Copyright Restrictions"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "contracts"
+              }
+            ]
+          }
+        },
+        "hash": "1151c3af6836532453673f9c4c581d1fa059494f",
+        "docSignature": "03a2014497ac95f9cee8a93117d33209",
+        "timestamp": "1664355305",
+        "lastTimeUpdated": "1664355290",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398752414-0",
+        "title": "<I>General La Fayette Bugle Waltz.</I>",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2019.28.33",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2019.28.33",
+            "online_media": {
+              "mediaCount": 2,
+              "media": [
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2019_28_33_001",
+                  "idsId": "NMAAHC-2019_28_33_001",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az9481b028f-4ad0-4691-8082-43403ac7fa04",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2019_28_33_001",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_001.tif",
+                      "width": 5326,
+                      "height": 6981
+                    },
+                    {
+                      "width": 5326,
+                      "height": 6981,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_001.jpg",
+                      "dimensions": "5326x6981"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_001_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_001_thumb"
+                    }
+                  ]
+                },
+                {
+                  "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2019_28_33_002",
+                  "idsId": "NMAAHC-2019_28_33_002",
+                  "usage": {
+                    "access": "CC0"
+                  },
+                  "guid": "http://n2t.net/ark:/65665/az982417e58-5a3e-4f29-8052-47fc4261d565",
+                  "type": "Images",
+                  "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2019_28_33_002",
+                  "resources": [
+                    {
+                      "label": "High-resolution TIFF",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_002.tif",
+                      "width": 5326,
+                      "height": 6981
+                    },
+                    {
+                      "width": 5326,
+                      "height": 6981,
+                      "label": "High-resolution JPEG",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_002.jpg",
+                      "dimensions": "5326x6981"
+                    },
+                    {
+                      "label": "Screen Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_002_screen"
+                    },
+                    {
+                      "label": "Thumbnail Image",
+                      "url": "https://ids.si.edu/ids/download?id=NMAAHC-2019_28_33_002_thumb"
+                    }
+                  ]
+                }
+              ]
+            },
+            "unit_code": "NMAAHC",
+            "title_sort": "<I>GENERAL LA FAYETTE BUGLE WALTZ.</I>",
+            "guid": "http://n2t.net/ark:/65665/fd5356265e2-fa1b-4b5c-9a2f-c43b50e2fe36",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2019.28.33",
+            "title": {
+              "label": "Title",
+              "content": "<I>General La Fayette Bugle Waltz.</I>"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "1820s"
+            ],
+            "geoLocation": [
+              {
+                "L5": {
+                  "type": "City",
+                  "content": "Philadelphia"
+                }
+              },
+              {
+                "L3": {
+                  "type": "State",
+                  "content": "Pennsylvania"
+                }
+              },
+              {
+                "L2": {
+                  "type": "Country",
+                  "content": "United States"
+                }
+              },
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "North and Central America"
+                }
+              }
+            ],
+            "object_type": [
+              "Sheet music"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Johnson, Francis",
+              "Taws, Joseph C."
+            ],
+            "topic": [
+              "Music",
+              "Composers (Musicians)",
+              "Band (Music)"
+            ],
+            "place": [
+              "United States",
+              "North and Central America",
+              "Philadelphia",
+              "Pennsylvania"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Documents and Published Materials-Sheet music"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "1824"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2019.28.33"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "Sheet music for the song “General La Fayette Bugle Waltz” composed by Francis Johnson. The sheet music is printed on off white paper in black ink. Text at the top of the sheet music reads “No. 7 of Taw’s Musical Miscellany – Copy right secured / GENERAL LA. FAYETTE BUGLE / WALTZ / Composed by / F. JOHNSON / Philadelphia Published for the Author.” The sheet music has handwritten numbers written in graphite above some of the ledger lines. There are no marks or inscriptions on the verso."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Composed by",
+                "content": "Francis Johnson, American, 1792 - 1844"
+              },
+              {
+                "label": "Published by",
+                "content": "Joseph C. Taws, American, 1797 - 1832"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Band (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Composers (Musicians)"
+              },
+              {
+                "label": "Topic",
+                "content": "Popular music"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place printed",
+                "content": "Philadelphia, Pennsylvania, United States, North and Central America"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "ink on paper"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W x D: 13 × 9 1/4 in. (33 × 23.5 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "Public domain"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "sheet music"
+              }
+            ]
+          }
+        },
+        "hash": "fdb83b2affe5d1574364d25818cfa2d6e299d0e3",
+        "docSignature": "f28021c0574e88efd95623deb900fda3",
+        "timestamp": "1663781623",
+        "lastTimeUpdated": "1655196328",
+        "version": ""
+      }
+    ],
+    "rowCount": 80863,
+    "message": "content found"
+  }
+}
